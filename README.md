@@ -1,15 +1,15 @@
 <h2>💼 경력</h2>
 
-<table align="center">
-<tr><th>기간</th><th>소속</th><th>역할 · 내용</th></tr>
+<table>
+<tr><th width="130">기간</th><th width="210">소속</th><th width="470">역할 · 내용</th></tr>
 <tr>
-<td><code>2025.03&nbsp;~&nbsp;현재</code></td>
+<td><code>2025.03 ~ 현재</code></td>
 <td><b>milvus</b><br/>데이터 컨설팅·구축 기업</td>
 <td>
 
 **Data Engineer**
 
-* **Adapt 프로젝트** `2026.03&nbsp;~&nbsp;2026.08`
+* **Adapt 프로젝트** `2026.03 ~ 2026.08`
   * 멀티 채널 커머스 ELT 파이프라인 구축
     * AWS Lambda raw 적재 · Athena VIEW · dbt 모델링
     * Salesforce Data Cloud 연동
@@ -18,7 +18,7 @@
 </td>
 </tr>
 <tr>
-<td><code>2024.03&nbsp;~&nbsp;2025.03</code></td>
+<td><code>2024.03 ~ 2025.03</code></td>
 <td><b>BCSDLab</b><br/>한기대 교내 스타트업형 IT 동아리</td>
 <td>
 
@@ -31,7 +31,7 @@
 </td>
 </tr>
 <tr>
-<td><code>2024.07&nbsp;~&nbsp;2024.08</code></td>
+<td><code>2024.07 ~ 2024.08</code></td>
 <td>한기대 융합학부</td>
 <td>빅데이터 분석 조교</td>
 </tr>
@@ -41,11 +41,11 @@
 
 <h2>📌 기타</h2>
 
-<table align="center">
+<table>
 <tr>
-<th>🏆 수상 이력</th>
-<th>📜 자격증</th>
-<th>🎓 학력 · 병역</th>
+<th width="380">🏆 수상 이력</th>
+<th width="250">📜 자격증</th>
+<th width="260">🎓 학력 · 병역</th>
 </tr>
 <tr>
 <td valign="top">
@@ -74,11 +74,11 @@
 </td>
 <td valign="top">
 
-* **한국기술교육대학교**<br/>`2019.03&nbsp;~&nbsp;2026.03`
+* **한국기술교육대학교**<br/>`2019.03 ~ 2026.03`
   * 메카트로닉스공학부<br/>제어공학 전공 (졸업)
     * CVIP.LAB
   * 융합학부 AI·빅데이터 트랙 이수
-* **병역필** `2020.03&nbsp;~&nbsp;2021.09`
+* **병역필** `2020.03 ~ 2021.09`
 
 </td>
 </tr>
@@ -88,8 +88,8 @@
 
 <h2>🛠 Tech Stack</h2>
 
-<table align="center">
-<tr><td><b>Languages</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></td></tr>
+<table>
+<tr><td width="160"><b>Languages</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></td></tr>
 <tr><td><b>Analytics & BI</b></td><td><img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></td></tr>
 <tr><td><b>Data Engineering</b></td><td><img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></td></tr>
 <tr><td><b>Database</b></td><td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></td></tr>
