@@ -7,17 +7,26 @@
 <td><b>milvus</b><br/>데이터 컨설팅·구축 기업</td>
 <td>
 
-**Data Engineer**
+<b>Data Engineer</b>
 
-* **쌍용 C&E 차세대 ERP 구축(BI)** `2025.08 ~ 2026.03`
-  * 도메인별 분석 데이터 마트 설계 · 사전 집계 구조로 조회 성능 개선
-  * 배치 프로시저 및 파라미터 기반 재실행 구조 구축 · 운영 정합성 확보
-  * Tableau BI 화면 개발 · 요약/상세 탐색 흐름 개선
-* **Adapt 프로젝트** `2026.03 ~ 2026.08`
-  * 멀티 채널 커머스 ELT 파이프라인 구축
-    * AWS Lambda raw 적재 · Athena VIEW · dbt 모델링
-    * Salesforce Data Cloud 연동
-  * Tableau Next 데이터 원본 구축
+<ul>
+  <li>
+    <b>쌍용 C&amp;E 차세대 ERP 구축(BI)</b> <code>2025.08 ~ 2026.03</code>
+    <ul>
+      <li>도메인별 분석 데이터 마트 설계 · 사전 집계 구조로 조회 성능 개선</li>
+      <li>배치 프로시저 및 파라미터 기반 재실행 구조 구축 · 운영 정합성 확보</li>
+      <li>Tableau BI 화면 개발 · 요약/상세 탐색 흐름 개선</li>
+    </ul>
+  </li>
+  <li>
+    <b>Adapt 프로젝트</b> <code>2026.03 ~ 2026.08</code>
+    <ul>
+      <li>멀티 채널 커머스 ELT 파이프라인 구축</li>
+      <li>AWS Lambda raw 적재 · Athena VIEW · dbt 모델링</li>
+      <li>Salesforce Data Cloud 연동 · Tableau Next 데이터 원본 구축</li>
+    </ul>
+  </li>
+</ul>
 
 </td>
 </tr>
