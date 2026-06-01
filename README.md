@@ -9,10 +9,11 @@
 
 **Data Engineer**
 
-* **Adapt 프로젝트** — 멀티 채널 커머스 ELT 파이프라인 구축
-  * AWS Lambda raw 적재 · Athena VIEW · dbt 모델링
-  * Salesforce Data Cloud 연동
-* **Tableau Next 데이터 원본 구축** `2026.03 ~ 2026.08`
+* **Adapt 프로젝트** `2026.03 ~ 2026.08`
+  * 멀티 채널 커머스 ELT 파이프라인 구축
+    * AWS Lambda raw 적재 · Athena VIEW · dbt 모델링
+    * Salesforce Data Cloud 연동
+  * Tableau Next 데이터 원본 구축
 
 </td>
 </tr>
