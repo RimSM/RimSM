@@ -31,6 +31,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce%20Data%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
