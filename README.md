@@ -1,5 +1,4 @@
 <h1 align="center">안녕하세요, RimSM 입니다 👋</h1>
-<p align="center">데이터 엔지니어 · 데이터 파이프라인 설계/운영 · Adapt</p>
 
 <br/>
 
