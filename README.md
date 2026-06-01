@@ -11,10 +11,6 @@ GA4 데이터 수집 → Python 분석 → Tableau 대시보드 → A/B Test 까
   <a href="https://public.tableau.com/app/profile/seongmuk.rim/vizzes"><img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVGFibGVhdTwvdGl0bGU%2BPHBhdGggZD0iTTExLjY1NC4xNzRWMi4zNzdIOS42ODJ2LjU4aDEuOTcyVjUuMTZoLjY5NlYyLjk1N2gxLjk3di0uNThoLTEuOTdWLjE3NGgtLjM0OHptNi4wMyAyLjI2MmwtLjAwMiAxLjYyM3YxLjYyM2gtMi45NTd2LjkyN2gyLjk1N3YzLjE4OEgxOC43MjVsLjAxMS0xLjU4Mi4wMi0xLjU3NiAxLjQ2NS0uMDIgMS40Ni0uMDF2LS45MjdIMTguNzI4VjIuNDM2aC0uNTIyem0tMTIuNDA3LjA2VjUuNjg2SDIuMjkxdi45MjVINS4yNzdWOS44MDFoLjk4NVY2LjYxaDMuMDEzdi0uOTI1SDYuMjYyVjIuNDk2SDUuNzd6bTYuMDg2IDUuMjd2My41OTNIOC4wNnYxLjE4OGgzLjMwNHYzLjU5NmgxLjI4di0zLjU5NkgxNS45NTN2LTEuMTg4SDEyLjY0M1Y3Ljc2NmgtLjYzN3ptOS43MjEgMS41NXYyLjIyMWgtMi4wMTJ2LjgxMWgyLjAxMnYyLjI2MWguODg3di0yLjI2MUgyNHYtLjgxMWgtMi4wMjlWOS4zMTdoLS40MjJ6bS0xOS4xMTEuMTMxVjExLjYyMUgwdi42MjFIMS45NzN2Mi4xOTRIMi42NHYtMi4xOTRoMnYtLjYySDIuNjA5VjkuNDQ2aC0uMzE4em0xNS43MDkgNC41MTZ2My4yNTRoLTMuMDE2di45MjdoMy4wMTZ2My4yMTdoMS4wNzJ2LTMuMjE2SDIxLjc0di0uOTI4SDE4Ljc1NHYtMy4yNTRoLS41MzN6bS0xMi40NjMuMDA4djMuMjQ2SDIuMjYydi45MjhoMi45NTd2My4xODlINi4zMnYtMy4xODloMi45NTV2LS45MjhINi4zMlYxMy45N2gtLjU1em02LjMxNiA0LjU3OGwuMDAyIDEuMTAzdjEuMUg5LjU2NnYuODEyaDEuOTcxdjIuMjYyaC45MjhsLjAxMi0xLjExOS4wMTctMS4xNDNIMTQuNDYzdi0uODEyaC0yVjE4LjU0OWgtLjQ2NXoiLz48L3N2Zz4%3D&logoColor=white"/> </a>
 </p>
 
-<p align="center">
-🏫 <b>한국기술교육대학교</b> 메카트로닉스공학부 제어공학 · 융합학부 AI·빅데이터 트랙 &nbsp;|&nbsp; 2019.03 ~ 2026.03 (졸업) &nbsp;|&nbsp; 병역필
-</p>
-
 <br/>
 
 <h2 align="center">💼 경력</h2>
@@ -57,15 +53,12 @@ GA4·GTM 이벤트 158개 설계 · 일 3~4만 건 수집 · Tableau/Looker 대�
 </td>
 <td valign="top" width="50%">
 
-### 🎓 교육 이수
+### 🎓 학력 · 병역
 
-- BigQuery(SQL) 활용 — 퍼널·리텐션 `2025.01`
-- PM을 위한 데이터 리터러시 `2025.01`
-- Tableau 대시보드 구축 — 종합 **1위** `2024.12`
-- SQL + Tableau A/B 테스트 시스템 `2024.08`
-- 데이터 리터러시 특강 `2024.08`
-- 정형데이터 분석 `A+` / 패턴분류 (TensorFlow) `A+`
-- 인공지능 인재양성 `2022.09`
+- **한국기술교육대학교** `2019.03 ~ 2026.03 (졸업)`
+- 메카트로닉스공학부 제어공학 전공
+- 융합학부 AI·빅데이터 트랙 이수
+- 병역필 `2020.03 ~ 2021.09`
 
 </td>
 </tr>
