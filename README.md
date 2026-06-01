@@ -3,7 +3,12 @@
 <table>
 <tr><th>기간</th><th>소속</th><th>역할 · 내용</th></tr>
 <tr>
-<td><code>2024.03 ~ 현재</code></td>
+<td><code>2025.03 ~ 현재</code></td>
+<td><b>milvus</b><br/>데이터 컨설팅·구축 기업</td>
+<td><b>Data Engineer</b><br/>Adapt 프로젝트 — 멀티 채널 커머스 ELT 파이프라인 구축<br/>AWS Lambda raw 적재 · Athena VIEW · dbt 모델링 · Salesforce Data Cloud 연동</td>
+</tr>
+<tr>
+<td><code>2024.03 ~ 2025.03</code></td>
 <td><b>BCSDLab</b><br/>한국기술교육대학교 교내 스타트업형 IT 동아리</td>
 <td><b>Data 트랙 리더</b><br/>KOIN(재학생 사용율 75% 교내 필수앱)의 첫 데이터 수집가이자 분석가<br/>GA4·GTM 이벤트 158개 설계 · 일 3~4만 건 수집 · Tableau/Looker 대시보드 · A/B Test 주도</td>
 </tr>
