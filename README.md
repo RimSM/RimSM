@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td><code>2024.03 ~ 2025.03</code></td>
-<td><b>BCSDLab</b><br/>한기대 교내 스타트업형 IT 동아리</td>
+<td><b>BCSDLab</b><br/>한기대 스타트업형 IT 동아리</td>
 <td>
 
 **Data 트랙 리더**
