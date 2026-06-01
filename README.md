@@ -1,28 +1,76 @@
-<h1 align="center">안녕하세요, RimSM 입니다 👋</h1>
+<h1 align="center">안녕하세요, 데이터로 성장하는 임성묵입니다 👋</h1>
+<p align="center"><b>한기대 필수앱 KOIN 첫 데이터 분석가 · Data 트랙 리드</b></p>
+
+<p align="center">
+GA4 데이터 수집 → Python 분석 → Tableau 대시보드 → A/B Test 까지 전 과정을 주도하며<br/>
+데이터 기반 의사결정 문화를 구축해 KOIN을 <b>재학생 사용율 75%</b>의 필수앱으로 성장시켰습니다.
+</p>
+
+<p align="center">
+  <a href="mailto:rsm9085@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://public.tableau.com/app/profile/seongmuk.rim/vizzes"><img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVGFibGVhdTwvdGl0bGU%2BPHBhdGggZD0iTTExLjY1NC4xNzRWMi4zNzdIOS42ODJ2LjU4aDEuOTcyVjUuMTZoLjY5NlYyLjk1N2gxLjk3di0uNThoLTEuOTdWLjE3NGgtLjM0OHptNi4wMyAyLjI2MmwtLjAwMiAxLjYyM3YxLjYyM2gtMi45NTd2LjkyN2gyLjk1N3YzLjE4OEgxOC43MjVsLjAxMS0xLjU4Mi4wMi0xLjU3NiAxLjQ2NS0uMDIgMS40Ni0uMDF2LS45MjdIMTguNzI4VjIuNDM2aC0uNTIyem0tMTIuNDA3LjA2VjUuNjg2SDIuMjkxdi45MjVINS4yNzdWOS44MDFoLjk4NVY2LjYxaDMuMDEzdi0uOTI1SDYuMjYyVjIuNDk2SDUuNzd6bTYuMDg2IDUuMjd2My41OTNIOC4wNnYxLjE4OGgzLjMwNHYzLjU5NmgxLjI4di0zLjU5NkgxNS45NTN2LTEuMTg4SDEyLjY0M1Y3Ljc2NmgtLjYzN3ptOS43MjEgMS41NXYyLjIyMWgtMi4wMTJ2LjgxMWgyLjAxMnYyLjI2MWguODg3di0yLjI2MUgyNHYtLjgxMWgtMi4wMjlWOS4zMTdoLS40MjJ6bS0xOS4xMTEuMTMxVjExLjYyMUgwdi42MjFIMS45NzN2Mi4xOTRIMi42NHYtMi4xOTRoMnYtLjYySDIuNjA5VjkuNDQ2aC0uMzE4em0xNS43MDkgNC41MTZ2My4yNTRoLTMuMDE2di45MjdoMy4wMTZ2My4yMTdoMS4wNzJ2LTMuMjE2SDIxLjc0di0uOTI4SDE4Ljc1NHYtMy4yNTRoLS41MzN6bS0xMi40NjMuMDA4djMuMjQ2SDIuMjYydi45MjhoMi45NTd2My4xODlINi4zMnYtMy4xODloMi45NTV2LS45MjhINi4zMlYxMy45N2gtLjU1em02LjMxNiA0LjU3OGwuMDAyIDEuMTAzdjEuMUg5LjU2NnYuODEyaDEuOTcxdjIuMjYyaC45MjhsLjAxMi0xLjExOS4wMTctMS4xNDNIMTQuNDYzdi0uODEyaC0yVjE4LjU0OWgtLjQ2NXoiLz48L3N2Zz4%3D&logoColor=white" alt="Tableau Public"/></a>
+</p>
+
+<p align="center">
+🏫 <b>한국기술교육대학교</b> 메카트로닉스공학부 제어공학 · 융합학부 AI·빅데이터 트랙 &nbsp;|&nbsp; 2019.03 ~ 2026.03 (졸업) &nbsp;|&nbsp; 병역필
+</p>
 
 <br/>
 
-<h2 align="center">🎓 Education & Career</h2>
+<h2 align="center">💼 경력</h2>
 
-| 구분 | 내용 | 기간 |
-|:---:|:---|:---:|
-| 🏫 학력 | 한국기술교육대학교 — 메카트로닉스공학부 제어공학 전공<br/>융합학부 AI·빅데이터 트랙 이수 | 2019.03 ~ 2026.03 *(졸업)* |
-| 💼 경력 | 융합학부 빅데이터 분석 조교 | 2024.07 ~ 2024.08 |
-| 🪖 병역 | 병역 필 | 2020.03 ~ 2021.09 |
+- **BCSDLab — 한국기술교육대학교 교내 스타트업형 IT 동아리 · Data 트랙 리더** `2024.03 ~ 현재`
+  - **KOIN**(재학생 사용율 75% 교내 필수앱)의 첫 데이터 수집가이자 데이터 분석가
+  - GA4·GTM 이벤트 **158개** 설계, 일 **3~4만 건** 수집 / Stage·Prod 환경 분리 + 데이터 QA
+  - Tableau·Looker Studio 대시보드 구축, 다중선형회귀 기반 기획 제시, **A/B Test** 설계·분석 주도
+  - Data 교육 담당 `2024.09 ~ 현재`
+- **융합학부 빅데이터 분석 조교** `2024.07 ~ 2024.08`
 
 <br/>
 
-<h2 align="center">📜 Certifications</h2>
+<h2 align="center">🏆 수상 이력</h2>
 
-| 자격증 | 취득일 |
-|:---|:---:|
-| 빅데이터분석기사 | 2024.07 |
-| SQLD | 2024.09 |
-| ADsP | 2024.03 |
-| DP-900 (Azure Data Fundamentals) | 2024.01 |
-| 인공지능활용분석 2급 | 2022.09 |
-| 컴퓨터활용능력 2급 | 2024.05 |
-| 1종 대형 운전면허 | 2021.09 |
+| 시기 | 수상 | 대회 / 내용 |
+|:---:|:---:|:---|
+| 2024.11 | 🥇 **대상** (학회장상) | 한국지식경영학회 추계학술대회 AI·빅데이터 아이디어 공모전 — 본선 11팀 중 1위, **팀장** · 생성형 AI 커리어 브랜딩(LLM + RAG) 제안 |
+| 2024.09 | 🥇 **대상** (총장상) | 한기대 데이터파이터 대회 — 21팀 중 1위 · Tableau 시각화 + Logistic 회귀, IPP 현장실습 대시보드 |
+| 2024.12 | 🥇 **1위** | Tableau 대시보드 구축 (데이터 시각화 과정 종합평가 1위) |
+| 2024.01 | 🥇 **1위** | 저학년 SW교육 프로그래밍 경시대회 (Microsoft) |
+
+> 📝 **특허 출원 진행 중** — ① 생성형 AI 기반 커리어 브랜딩 시스템 &nbsp; ② 3D 스캐닝·NeRF 가상공간 생성기 (CVIP.LAB)
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 📜 자격증
+
+- 빅데이터분석기사 `2024.07`
+- SQLD `2024.09`
+- ADsP `2024.03`
+- DP-900 (Azure Data Fundamentals) `2024.01`
+- 인공지능활용분석 2급 `2022.09`
+- 컴퓨터활용능력 2급 `2024.05`
+- 1종 대형 운전면허 `2021.09`
+
+</td>
+<td valign="top" width="50%">
+
+### 🎓 교육 이수
+
+- BigQuery(SQL) 활용 — 퍼널·리텐션·윈도우함수 `2025.01`
+- PM을 위한 데이터 리터러시 `2025.01`
+- Tableau 대시보드 구축 — 종합평가 **1위** `2024.12`
+- SQL + Tableau A/B 테스트 분석 시스템 `2024.08`
+- 데이터 리터러시 특강 (데이터성과센터) `2024.08`
+- 정형데이터 분석 `A+` / 데이터와 패턴분류 (TensorFlow) `A+`
+- 인공지능 인재양성 (인공지능활용분석) `2022.09`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -33,11 +81,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
+<h3 align="center">Data Analytics & BI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA4"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVGFibGVhdTwvdGl0bGU%2BPHBhdGggZD0iTTExLjY1NC4xNzRWMi4zNzdIOS42ODJ2LjU4aDEuOTcyVjUuMTZoLjY5NlYyLjk1N2gxLjk3di0uNThoLTEuOTdWLjE3NGgtLjM0OHptNi4wMyAyLjI2MmwtLjAwMiAxLjYyM3YxLjYyM2gtMi45NTd2LjkyN2gyLjk1N3YzLjE4OEgxOC43MjVsLjAxMS0xLjU4Mi4wMi0xLjU3NiAxLjQ2NS0uMDIgMS40Ni0uMDF2LS45MjdIMTguNzI4VjIuNDM2aC0uNTIyem0tMTIuNDA3LjA2VjUuNjg2SDIuMjkxdi45MjVINS4yNzdWOS44MDFoLjk4NVY2LjYxaDMuMDEzdi0uOTI1SDYuMjYyVjIuNDk2SDUuNzd6bTYuMDg2IDUuMjd2My41OTNIOC4wNnYxLjE4OGgzLjMwNHYzLjU5NmgxLjI4di0zLjU5NkgxNS45NTN2LTEuMTg4SDEyLjY0M1Y3Ljc2NmgtLjYzN3ptOS43MjEgMS41NXYyLjIyMWgtMi4wMTJ2LjgxMWgyLjAxMnYyLjI2MWguODg3di0yLjI2MUgyNHYtLjgxMWgtMi4wMjlWOS4zMTdoLS40MjJ6bS0xOS4xMTEuMTMxVjExLjYyMUgwdi42MjFIMS45NzN2Mi4xOTRIMi42NHYtMi4xOTRoMnYtLjYySDIuNjA5VjkuNDQ2aC0uMzE4em0xNS43MDkgNC41MTZ2My4yNTRoLTMuMDE2di45MjdoMy4wMTZ2My4yMTdoMS4wNzJ2LTMuMjE2SDIxLjc0di0uOTI4SDE4Ljc1NHYtMy4yNTRoLS41MzN6bS0xMi40NjMuMDA4djMuMjQ2SDIuMjYydi45MjhoMi45NTd2My4xODlINi4zMnYtMy4xODloMi45NTV2LS45MjhINi4zMlYxMy45N2gtLjU1em02LjMxNiA0LjU3OGwuMDAyIDEuMTAzdjEuMUg5LjU2NnYuODEyaDEuOTcxdjIuMjYyaC45MjhsLjAxMi0xLjExOS4wMTctMS4xNDNIMTQuNDYzdi0uODEyaC0yVjE4LjU0OWgtLjQ2NXoiLz48L3N2Zz4%3D&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
+</p>
 <h3 align="center">Data Engineering</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" alt="dbt"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-4A90D9?style=for-the-badge" alt="Iceberg"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 <h3 align="center">Cloud / AWS</h3>
@@ -48,19 +101,18 @@
   <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge" alt="Athena"/>
   <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge" alt="Glue"/>
 </p>
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 <h3 align="center">Platform / Infra</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce%20Data%20Cloud-00A1E0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BU2FsZXNmb3JjZTwvdGl0bGU%2BPHBhdGggZD0iTTEwLjAwNiA1LjQxNWE0LjE5NSA0LjE5NSAwIDAxMy4wNDUtMS4zMDZjMS41NiAwIDIuOTU0LjkgMy42OSAyLjIwNS42My0uMyAxLjM1LS40NSAyLjEtLjQ1IDIuODUgMCA1LjE1OSAyLjM0IDUuMTU5IDUuMjJzLTIuMzEgNS4yMi01LjE3NiA1LjIyYy0uMzQ1IDAtLjY5LS4wNDQtMS4wMi0uMTA0YTMuNzUgMy43NSAwIDAxLTMuMyAxLjk1Yy0uNiAwLTEuMTU1LS4xNS0xLjY1LS4zNzVBNC4zMTQgNC4zMTQgMCAwMTguODggMjAuNGE0LjMwMiA0LjMwMiAwIDAxLTQuMDUtMi44MmMtLjI3LjA2Mi0uNTQuMDc2LS44MjUuMDc2LTIuMjA0IDAtNC4wMDUtMS44LTQuMDA1LTQuMDUgMC0xLjUuODExLTIuODA1IDIuMDEtMy41MS0uMjU1LS41Ny0uMzktMS4yLS4zOS0xLjg0NiAwLTIuNTggMi4xLTQuNjUgNC42NS00LjY1IDEuNTMgMCAyLjg1LjcwNSAzLjcyIDEuOCIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Salesforce"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
-<h3 align="center">BI / Analytics</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVGFibGVhdTwvdGl0bGU%2BPHBhdGggZD0iTTExLjY1NC4xNzRWMi4zNzdIOS42ODJ2LjU4aDEuOTcyVjUuMTZoLjY5NlYyLjk1N2gxLjk3di0uNThoLTEuOTdWLjE3NGgtLjM0OHptNi4wMyAyLjI2MmwtLjAwMiAxLjYyM3YxLjYyM2gtMi45NTd2LjkyN2gyLjk1N3YzLjE4OEgxOC43MjVsLjAxMS0xLjU4Mi4wMi0xLjU3NiAxLjQ2NS0uMDIgMS40Ni0uMDF2LS45MjdIMTguNzI4VjIuNDM2aC0uNTIyem0tMTIuNDA3LjA2VjUuNjg2SDIuMjkxdi45MjVINS4yNzdWOS44MDFoLjk4NVY2LjYxaDMuMDEzdi0uOTI1SDYuMjYyVjIuNDk2SDUuNzd6bTYuMDg2IDUuMjd2My41OTNIOC4wNnYxLjE4OGgzLjMwNHYzLjU5NmgxLjI4di0zLjU5NkgxNS45NTN2LTEuMTg4SDEyLjY0M1Y3Ljc2NmgtLjYzN3ptOS43MjEgMS41NXYyLjIyMWgtMi4wMTJ2LjgxMWgyLjAxMnYyLjI2MWguODg3di0yLjI2MUgyNHYtLjgxMWgtMi4wMjlWOS4zMTdoLS40MjJ6bS0xOS4xMTEuMTMxVjExLjYyMUgwdi42MjFIMS45NzN2Mi4xOTRIMi42NHYtMi4xOTRoMnYtLjYySDIuNjA5VjkuNDQ2aC0uMzE4em0xNS43MDkgNC41MTZ2My4yNTRoLTMuMDE2di45MjdoMy4wMTZ2My4yMTdoMS4wNzJ2LTMuMjE2SDIxLjc0di0uOTI4SDE4Ljc1NHYtMy4yNTRoLS41MzN6bS0xMi40NjMuMDA4djMuMjQ2SDIuMjYydi45MjhoMi45NTd2My4xODlINi4zMnYtMy4xODloMi45NTV2LS45MjhINi4zMlYxMy45N2gtLjU1em02LjMxNiA0LjU3OGwuMDAyIDEuMTAzdjEuMUg5LjU2NnYuODEyaDEuOTcxdjIuMjYyaC45MjhsLjAxMi0xLjExOS4wMTctMS4xNDNIMTQuNDYzdi0uODEyaC0yVjE4LjU0OWgtLjQ2NXoiLz48L3N2Zz4%3D&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
-</p>
-<h3 align="center">IDE / Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
