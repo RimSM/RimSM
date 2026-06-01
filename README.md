@@ -1,7 +1,7 @@
 <h2>💼 경력</h2>
 
-<table>
-<tr><th>기간</th><th>소속</th><th>역할 · 내용</th></tr>
+<table width="100%">
+<tr><th width="18%">기간</th><th width="27%">소속</th><th width="55%">역할 · 내용</th></tr>
 <tr>
 <td><code>2025.03 ~ 현재</code></td>
 <td><b>milvus</b><br/>데이터 컨설팅·구축 기업</td>
