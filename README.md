@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td><code>2024.07 ~ 2024.08</code></td>
-<td>한기대 융합학부</td>
+<td>KOREATECH 융합학부</td>
 <td>빅데이터 분석 조교</td>
 </tr>
 </table>
